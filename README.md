@@ -1,3 +1,3 @@
 # visualisations
 
-https://raw.githack.com/PawelRebisz/visualisations/master/visualisations.html
+https://pawelrebisz.github.io/visualisations/visualisations.html
